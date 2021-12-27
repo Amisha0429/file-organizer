@@ -2,10 +2,10 @@
 A file organizer that organizes several files into separate folder based on the type of the file.
 
 * Modules used:
-  os
-  PySimpleGUI
-  pathlib
-  sys
+  - os
+  - PySimpleGUI
+  - pathlib
+  - sys
 
 * Methods used:
   os.listdir() - to get the lisr of all files and directories in the specified directory.
