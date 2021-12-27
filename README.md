@@ -1,13 +1,13 @@
 # file-organizer
 A file organizer that organizes several files into separate folder based on the type of the file.
 
-Modules used-
+* Modules used:
   os
   PySimpleGUI
   pathlib
   sys
 
-Methods used-
+* Methods used:
   os.listdir() - to get the lisr of all files and directories in the specified directory.
   os.path.exists() - to check whether the specifies path exists or not.
   os.makedirs() - to create unavailable directory in the specifies path.
